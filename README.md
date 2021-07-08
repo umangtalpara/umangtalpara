@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @umangtalpara
-- 👀 I’m interested in web-devlopment
-- 🌱 I’m currently learning 
+- 👀 I’m interested in web-development
+- 🌱 I’m currently work from home 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 mail:patelumang607@gmail.com
+- 📞 call on : 9723455615
 
 <!---
 umangtalpara/umangtalpara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
