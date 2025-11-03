@@ -2,13 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=a270f8&center=true&vCenter=true&width=600&lines=Hello+there!;I'm+Umang+Talpara" alt="Typing Animation" />
 </p>
 <p align="center">
-  I'm a Full Stack Developer (MERN) who loves solving problems and building real-world apps. Always learning, improving, and creating tech that makes a difference.
+  I'm a Full Stack Developer who loves solving problems and building real-world apps. Always learning, improving, and creating tech that makes a difference.
 </p>
-- 🌱 I’m currently work from home 
-- 💞️ I'm looking to collaborate on full stack development
-- 📫 mail:patelumang607@gmail.com
-- 📞 call on : 9723455615
-- linkedin : https://www.linkedin.com/in/umang-talpara/
 
 <!-- Tech Stack -->
 <div align="center">
@@ -59,6 +54,16 @@
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
 
+
+---
+
+### About Me
+
+- 🌱 I’m currently **working from home**
+- 💞️ I'm looking to collaborate on **full stack development** projects
+- 📫 mail: **patelumang607@gmail.com**
+- 📞 call on : **9723455615**
+- 💼 linkedin : [Umang Talpara](https://www.linkedin.com/in/umang-talpara/)
 
 </div>
 
