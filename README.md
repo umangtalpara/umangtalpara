@@ -4,6 +4,7 @@
 - 💞️ I'm looking to collaborate on full stack development
 - 📫 mail:patelumang607@gmail.com
 - 📞 call on : 9723455615
+- linkedin : https://www.linkedin.com/in/umang-talpara/
 
 <!---
 umangtalpara/umangtalpara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
