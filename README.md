@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=a270f8&center=true&vCenter=true&width=600&lines=Hello+there!;I'm+Umang+Talpara" alt="Typing Animation" />
+</p>
+
 - 👋 Hi, I’m @umangtalpara
 - 👀 I’m interested in web-development
 - 🌱 I’m currently work from home 
