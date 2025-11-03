@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=a270f8&center=true&vCenter=true&width=600&lines=Hello+there!;I'm+Umang+Talpara" alt="Typing Animation" />
 </p>
 <p align="center">
-  I'm a Full Stack Developer who loves solving problems and building real-world apps. Always learning, improving, and creating tech that makes a difference.
+  I'm a **Full Stack Developer** who loves solving problems and building real-world apps. Always learning, improving, and creating tech that makes a difference. (4+ years experience)
 </p>
 
 <!-- Tech Stack -->
